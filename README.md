@@ -32,7 +32,7 @@ docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 chatgpt-ui
 
 Pull from ghcr:
 
-```
+```shell
 docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 ghcr.io/mckaywrigley/chatbot-ui:main
 ```
 
