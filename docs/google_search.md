@@ -18,4 +18,4 @@ Use the Google Search API to search the web in Chatbot UI.
 
 ## Usage Limits
 
-Google gives you 100 free searches per day. You can increase this limit by creating a billing account. Now, enjoy it.
+Google gives you 100 free searches per day. You can increase this limit by creating a billing account.
